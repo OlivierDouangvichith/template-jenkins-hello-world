@@ -17,7 +17,6 @@ pipeline {
             }
         }
     }
-
 post {
         always {
             echo 'Will always run, irrespective of success or failure'
