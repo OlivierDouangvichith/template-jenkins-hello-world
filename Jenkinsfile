@@ -19,7 +19,7 @@ pipeline {
     }
 post {
         always {
-            echo 'ALWAYS2: Will always run, irrespective of success or failure'
+            echo 'ALWAYS2bis: Will always run, irrespective of success or failure'
         }
     }
 }
