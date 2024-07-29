@@ -19,7 +19,7 @@ pipeline {
     }
 post {
         always {
-            echo 'ALWAYS2bis TOTO: Will always run, irrespective of success or failure'
+            echo 'ALWAYS2bis TOTO zz: Will always run, irrespective of success or failure'
         }
     }
 }
